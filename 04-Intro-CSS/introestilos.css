@@ -1,0 +1,15 @@
+.colores {
+    color: orangered;
+}
+
+.color-hexadecimal {
+    color: #BCE784;
+}
+
+.color-rgb {
+    color:rgb(53, 71, 226)
+}
+
+.color-rgba {
+    color: rgba(10, 10, 10, 0.85)
+}
